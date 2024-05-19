@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.col{
+  float: left;
+}
+
+.left{
+  width:75%
+}
+
+.right{
+  width:25%
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.spanErr {
+  font-size: 12px;
+  color: red;
+  display: none;
+}
+
+input:invalid ~ .spanErr {
+  display: block;
+}

@@ -1,0 +1,9 @@
+.tile{
+    padding: 8px;
+    margin: 15px 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-top: 5px;
+}
