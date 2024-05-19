@@ -51,7 +51,7 @@ and manage the transactions seamlessly.
    npm install
    ```
 5. Run on web:
-   * Open Chrome web browser.
+   ```sh
    npm run start
    ```
   
