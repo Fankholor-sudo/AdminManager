@@ -28,7 +28,7 @@ website data without a developer. allowing them to upload new products, update p
 and manage the transactions seamlessly.
 
 ### Video preview.
-https://github.com/Fankholor-sudo/AdminManager/assets/54154030/e2417700-fdba-4c22-92b3-b8601ed0d6e5
+https://github.com/Fankholor-sudo/AdminManager/assets/54154030/ec6dc818-1dda-4033-bc84-677aec7e8317
 
 
 
